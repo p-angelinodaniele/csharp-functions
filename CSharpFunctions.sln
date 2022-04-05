@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFunctions", "CSharpFunctions\CSharpFunctions.csproj", "{40F4A289-D541-499A-AEF4-19FD509C0E8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus", "Bonus\Bonus.csproj", "{D3194649-99CB-46C9-9618-79CE0B974428}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{40F4A289-D541-499A-AEF4-19FD509C0E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40F4A289-D541-499A-AEF4-19FD509C0E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40F4A289-D541-499A-AEF4-19FD509C0E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3194649-99CB-46C9-9618-79CE0B974428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3194649-99CB-46C9-9618-79CE0B974428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3194649-99CB-46C9-9618-79CE0B974428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3194649-99CB-46C9-9618-79CE0B974428}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
